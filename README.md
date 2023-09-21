@@ -1,11 +1,9 @@
 <h4 align="center">
 <div class=HeaderSticker>
-<img src="https://media.giphy.com/media/91OAMTbvgy59QFMIAy/giphy.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHEybm9uNXN3MmdhY2YwaGl5ZDN5Mm4wZTg3NGw0NjBwZWd5ejZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/riDHBmjuV2NhOJ2IeU/giphy.gif"/>
 </div>
-<h1 class="center"> Tic Tac Toe </h1>
+<h1 class="center"> Tic Tac Toe In Python </h1>
 </h4>
-
-# Tic-Tac-Toe Game in Python
 
 ## Introduction
 
