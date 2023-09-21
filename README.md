@@ -1,10 +1,15 @@
+<h4 align="center">
+<div class=HeaderSticker>
+<img src="https://media.giphy.com/media/riDHBmjuV2NhOJ2IeU/giphy.gif"/>
+</div>
+<h1 class="center"> Tic-Tac-Toe</h1>
+</h4>
+
 # Tic-Tac-Toe Game in Python
 
 ## Introduction
 
 Welcome to the Tic-Tac-Toe game in Python! This project allows you to create a simple command-line version of the classic Tic-Tac-Toe game. You can implement player vs. player gameplay or even challenge yourself by creating an AI opponent. This README.md file will guide you through setting up, playing, and extending the game.
-
-![Tic-Tac-Toe](tictactoe.png)
 
 ## Table of Contents
 
