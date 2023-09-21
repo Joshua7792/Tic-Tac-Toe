@@ -1,8 +1,8 @@
 <h4 align="center">
 <div class=HeaderSticker>
-<img src="https://media.giphy.com/media/riDHBmjuV2NhOJ2IeU/giphy.gif"/>
+<img src="https://media.giphy.com/media/91OAMTbvgy59QFMIAy/giphy.gif"/>
 </div>
-<h1 class="center"> Tic-Tac-Toe</h1>
+<h1 class="center"> Tic Tac Toe </h1>
 </h4>
 
 # Tic-Tac-Toe Game in Python
