@@ -32,7 +32,7 @@ Before you begin, make sure you have the following:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Joshua7792/tic-tac-toe.git
 Change your current directory to the project folder:
 
 bash
